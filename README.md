@@ -1,0 +1,2 @@
+# bemutatkozooldal
+ a static page
